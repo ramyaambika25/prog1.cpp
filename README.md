@@ -1,1 +1,7 @@
-# prog1.cpp
+#include<>stdio.h
+#include<>conio.h
+main()
+{
+  printf("Hello world");
+  getch();
+}
